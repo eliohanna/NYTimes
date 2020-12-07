@@ -1,0 +1,1209 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9fa90aa8-3a25-5284-84d4-b07fad97d038",
+      "url": "https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html",
+      "id": 100000007479053,
+      "asset_id": 100000007479053,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-06 16:24:08",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Child Abuse and Neglect;Sex Crimes;Child Pornography;Video Recordings, Downloads and Streaming;Computers and the Internet;Women and Girls;Pornography;Human Trafficking;Regulation and Deregulation of Industry;Pornhub;MindGeek Sarl;Canada",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "The Children of Pornhub",
+      "abstract": "Why does Canada allow this company to profit off videos of exploitation and assault?",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Sex Crimes",
+        "Child Pornography",
+        "Video Recordings, Downloads and Streaming",
+        "Computers and the Internet",
+        "Women and Girls",
+        "Pornography",
+        "Human Trafficking",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Pornhub",
+        "MindGeek Sarl"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Canada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena K. Fleites, 19, was 14 when a boy she had a crush on asked her to make a naked video and send it to him. She did, and it ended up on Pornhub.",
+          "copyright": "Rachel Bujalski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/563c9a6e-5101-5499-89fb-2d49211ab486",
+      "url": "https://www.nytimes.com/2020/12/05/us/politics/trump-presidency-election-loss.html",
+      "id": 100000007485517,
+      "asset_id": 100000007485517,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 17:55:01",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Inaugurations;Elections;Voter Fraud (Election Fraud);Social Media;Coronavirus (2019-nCoV);Trump, Donald J",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "Trump’s Final Days of Rage and Denial",
+      "abstract": "The last act of the Trump presidency has taken on the stormy elements of a drama more common to history or literature than a modern White House.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Inaugurations",
+        "Elections",
+        "Voter Fraud (Election Fraud)",
+        "Social Media",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in the Oval Office on Thursday. He has continued to denounce the results of the election.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/05dc-president-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/merlin_180770211_9390c8cc-2ade-47dd-abc5-2a4309485649-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/merlin_180770211_9390c8cc-2ade-47dd-abc5-2a4309485649-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/961c46c7-cfb3-56aa-9cdc-c2f0695f7f47",
+      "url": "https://www.nytimes.com/2020/12/05/health/covid-natural-immunity.html",
+      "id": 100000007483149,
+      "asset_id": 100000007483149,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 07:27:43",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Vaccination and Immunization;Content Type: Service;Immune System",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "‘Natural Immunity’ From Covid Is Not Safer Than a Vaccine",
+      "abstract": "What if you’ve already had Covid-19 — do you still need a vaccine? Experts tackle questions about vaccine immunity.",
+      "des_facet": [
+        "your-feed-science",
+        "Vaccination and Immunization",
+        "Content Type: Service",
+        "Immune System"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Although researchers aren’t sure whether a vaccine or the infection itself produces the stronger immune response, one thing is clear: The vaccine is far safer.",
+          "copyright": "Marco Bello/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/science/05VIRUS-IMMUNITY/05VIRUS-IMMUNITY-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/science/05VIRUS-IMMUNITY/05VIRUS-IMMUNITY-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/science/05VIRUS-IMMUNITY/05VIRUS-IMMUNITY-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6104cdd0-20e4-5e5d-b79c-b07c0dc70f22",
+      "url": "https://www.nytimes.com/2020/12/06/world/rudy-giuliani-covid.html",
+      "id": 100000007489323,
+      "asset_id": 100000007489323,
+      "source": "New York Times",
+      "published_date": "2020-12-06",
+      "updated": "2020-12-06 17:54:25",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "internal-essential",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Giuliani has tested positive for the coronavirus, Trump says.",
+      "abstract": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudy Giuliani, the personal and campaign lawyer for President Trump, during an appearance before the Michigan House Oversight Committee on Wednesday.",
+          "copyright": "Jeff Kowalsky/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06virus-briefing-guiliani1/06virus-briefing-guiliani1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06virus-briefing-guiliani1/merlin_180741207_7b79ebb3-1f60-4df5-8ad0-750ee996cf6a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06virus-briefing-guiliani1/merlin_180741207_7b79ebb3-1f60-4df5-8ad0-750ee996cf6a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9bc3a62a-d319-5f4e-8bd0-700aa3c48d48",
+      "url": "https://www.nytimes.com/2020/12/05/us/carl-lentz-hillsong-pastor.html",
+      "id": 100000007483595,
+      "asset_id": 100000007483595,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 16:55:16",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Ministers (Protestant);Celebrities;Christians and Christianity;Houston, Brian (1954- );Lentz, Carl (1979- );Bieber, Justin;Hillsong Church;New York City",
+      "column": null,
+      "byline": "By Ruth Graham",
+      "type": "Article",
+      "title": "The Rise and Fall of Carl Lentz, the Celebrity Pastor of Hillsong Church",
+      "abstract": "A charismatic pastor helped build a megachurch favored by star athletes and entertainers — until some temptations became too much to resist.",
+      "des_facet": [
+        "Ministers (Protestant)",
+        "Celebrities",
+        "Christians and Christianity"
+      ],
+      "org_facet": [
+        "Hillsong Church"
+      ],
+      "per_facet": [
+        "Houston, Brian (1954- )",
+        "Lentz, Carl (1979- )",
+        "Bieber, Justin"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Lentz, speaking at Hillsong NYC, became not just a friend to celebrities but a celebrity himself.",
+          "copyright": "Andrew White for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05hillsong/05hillsong-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05hillsong/05hillsong-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05hillsong/05hillsong-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cc5da575-cb42-569d-a71c-cc225bb6aba8",
+      "url": "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.html",
+      "id": 100000007487180,
+      "asset_id": 100000007487180,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-05 15:12:14",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Senate;Politics and Government;Presidential Election of 2020;Ossoff, Jon;Perdue, David A Jr;Warnock, Raphael G;Loeffler, Kelly L;Trump, Donald J;Pence, Mike;Obama, Barack;Republican Party;Democratic Party;Georgia",
+      "column": null,
+      "byline": "By Richard Fausset, Michael D. Shear and Shane Goldmacher",
+      "type": "Article",
+      "title": "A Gathering Political Storm Hits Georgia, With Trump on the Way",
+      "abstract": "With two crucial Senate seats up for grabs, Mike Pence and Barack Obama joined the fray in support of their party’s candidates, and President Trump is headed there on Saturday.",
+      "des_facet": [
+        "Elections, Senate",
+        "Politics and Government",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Ossoff, Jon",
+        "Perdue, David A Jr",
+        "Warnock, Raphael G",
+        "Loeffler, Kelly L",
+        "Trump, Donald J",
+        "Pence, Mike",
+        "Obama, Barack"
+      ],
+      "geo_facet": [
+        "Georgia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence held a rally in support of Senators David Perdue, left, and Kelly Loeffler in Savannah, Ga., on Friday.",
+          "copyright": "Spencer Platt/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/04georgia1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/merlin_180820143_66756089-7d94-4828-b7de-28adf0b929ba-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/merlin_180820143_66756089-7d94-4828-b7de-28adf0b929ba-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0fa6e451-17e3-54e9-af6c-36831916ec5a",
+      "url": "https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html",
+      "id": 100000007483853,
+      "asset_id": 100000007483853,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-06 10:27:28",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Risks and Safety Concerns;Quarantine (Life and Culture);Vaccination and Immunization;Content Type: Service;United States",
+      "column": null,
+      "byline": "By Margot Sanger-Katz, Claire Cain Miller and Quoctrung Bui",
+      "type": "Article",
+      "title": "How 700 Epidemiologists Are Living Now, and What They Think Is Next",
+      "abstract": "They are going to the grocery store again, but don’t see vaccines making life normal right away.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Quarantine (Life and Culture)",
+        "Vaccination and Immunization",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Under elevated subway tracks in Brooklyn in April. The pandemic has been a long slog, and experts don’t see a quick end to it, despite optimism about vaccines.",
+          "copyright": "Mark Lennihan/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9ff93ebf-0e59-5cec-ae90-51233633d2e7",
+      "url": "https://www.nytimes.com/2020/12/05/health/coronavirus-swiss-cheese-infection-mackay.html",
+      "id": 100000007481036,
+      "asset_id": 100000007481036,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-05 05:00:16",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Hygiene and Cleanliness;Vaccination and Immunization;Infections;your-feed-health",
+      "column": null,
+      "byline": "By Siobhan Roberts",
+      "type": "Article",
+      "title": "The Swiss Cheese Model of Pandemic Defense",
+      "abstract": "It’s not edible, but it can save lives. The virologist Ian Mackay explains how.",
+      "des_facet": [
+        "your-feed-science",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Hygiene and Cleanliness",
+        "Vaccination and Immunization",
+        "Infections",
+        "your-feed-health"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The multilayered “Swiss cheese” model was devised in the 1990s to improve industrial safety. Ian Mackay, a virologist at the University of Queensland, recently adapted it for the coronavirus pandemic. “It’s important to use more slices to prevent those volatile holes from aligning and letting virus through,” he said.",
+          "copyright": "Ian M. Mackay",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/science/00SCI-VIRUS-CHEESE2/00SCI-VIRUS-CHEESE2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/science/00SCI-VIRUS-CHEESE2/00SCI-VIRUS-CHEESE2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/science/00SCI-VIRUS-CHEESE2/00SCI-VIRUS-CHEESE2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/38f54145-1eab-52ac-9006-025ce3fdefed",
+      "url": "https://www.nytimes.com/2020/12/06/arts/television/snl-cecily-strong-melissa-carone-morgan-wallen.html",
+      "id": 100000007488928,
+      "asset_id": 100000007488928,
+      "source": "New York Times",
+      "published_date": "2020-12-06",
+      "updated": "2020-12-06 15:35:30",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Bateman, Jason;Wallen, Morgan;Strong, Cecily;Carone, Melissa",
+      "column": null,
+      "byline": "By Dave Itzkoff",
+      "type": "Article",
+      "title": "‘S.N.L.’ Parodies Rudy Giuliani and Melissa Carone’s Disastrous Hearing",
+      "abstract": "Cecily Strong took center stage in a “Saturday Night Live” sketch playing a real-life figure who had already reminded viewers of one of her best-known characters.",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bateman, Jason",
+        "Wallen, Morgan",
+        "Strong, Cecily",
+        "Carone, Melissa"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cecily Strong (left, with Kate McKinnon as Rudolph W. Giuliani) played Melissa Carone, who had already reminded “S.N.L.” fans of Strong’s character the Girl You Wish You Hadn’t Started a Conversation With at a Party.",
+          "copyright": "NBC via YouTube",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/arts/06snl/06snl-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/arts/06snl/06snl-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/arts/06snl/06snl-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0caf65cd-a531-5171-bdcb-a6668ac47640",
+      "url": "https://www.nytimes.com/2020/12/05/business/economy/havana-syndrome-microwave-attack.html",
+      "id": 100000007487932,
+      "asset_id": 100000007487932,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 18:16:59",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "Diplomatic Service, Embassies and Consulates;Espionage and Intelligence Services;Microwaves (Electromagnetic Waves);Biden, Joseph R Jr;Trump, Donald J;Central Intelligence Agency;State Department;China;Cuba;Russia",
+      "column": null,
+      "byline": "By Ana Swanson and Edward Wong",
+      "type": "Article",
+      "title": "Report Points to Microwave ‘Attack’ as Likely Source of Mystery Illnesses That Hit Diplomats and Spies",
+      "abstract": "A government-commissioned report provides the most definitive explanation yet for “Havana syndrome,” which struck scores of American employees, first in Cuba and then in China, Russia and other countries.",
+      "des_facet": [
+        "Diplomatic Service, Embassies and Consulates",
+        "Espionage and Intelligence Services",
+        "Microwaves (Electromagnetic Waves)"
+      ],
+      "org_facet": [
+        "Central Intelligence Agency",
+        "State Department"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "China",
+        "Cuba",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many government employees afflicted by the illness, which was first disclosed in Havana, suffered from dizziness, fatigue, headaches, and loss of hearing, memory and balance.",
+          "copyright": "Meridith Kohut for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/politics/00DC-HAVANAREPORT-1/merlin_133950497_9c30ac7e-a2f1-48c2-a025-0c4d477345d3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/politics/00DC-HAVANAREPORT-1/merlin_133950497_9c30ac7e-a2f1-48c2-a025-0c4d477345d3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/politics/00DC-HAVANAREPORT-1/merlin_133950497_9c30ac7e-a2f1-48c2-a025-0c4d477345d3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fdefdfac-c414-55f1-921e-f8d2775778b2",
+      "url": "https://www.nytimes.com/2020/12/04/dining/hanukkah-latke-recipe.html",
+      "id": 100000007480844,
+      "asset_id": 100000007480844,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-05 18:20:46",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Hanukkah;Cooking and Cookbooks;Potatoes;Pancakes",
+      "column": null,
+      "byline": "By Joan Nathan",
+      "type": "Article",
+      "title": "A Genius Method for Making Latkes",
+      "abstract": "Joan Nathan has found the crisp potato pancakes of her dreams, inspired by Swiss rösti.",
+      "des_facet": [
+        "Hanukkah",
+        "Cooking and Cookbooks",
+        "Potatoes",
+        "Pancakes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "These latkes for Hanukkah are made with only potato, salt and pepper, and emerge from the pan crisp and full of flavor.",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/dining/04latke1/04latke1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/dining/04latke1/merlin_180333147_a584dea4-59d6-4174-a984-da1bdb13523e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/dining/04latke1/merlin_180333147_a584dea4-59d6-4174-a984-da1bdb13523e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/346ad140-a674-54dc-a685-6099c9f5cd85",
+      "url": "https://www.nytimes.com/2020/12/05/opinion/autism-adult-diagnosis-women.html",
+      "id": 100000007468532,
+      "asset_id": 100000007468532,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 16:24:16",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Autism;Women and Girls;Medicine and Health;Attention Deficit Hyperactivity Disorder;National Health Service;Great Britain",
+      "column": null,
+      "byline": "By Marianne Eloise",
+      "type": "Article",
+      "title": "I’m Autistic. I Didn’t Know Until I Was 27.",
+      "abstract": "Autism spectrum disorder is inseparable from who I am. I wish only that it hadn’t taken so long to find out.",
+      "des_facet": [
+        "Autism",
+        "Women and Girls",
+        "Medicine and Health",
+        "Attention Deficit Hyperactivity Disorder"
+      ],
+      "org_facet": [
+        "National Health Service"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author, age 3. “The textures of the suit, salt and sand on my skin made me feel like I was burning, but I stubbornly insisted on swimming in the sea anyway.”",
+          "copyright": "Courtesy Marianne Eloise",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/opinion/07disability-eloise1/05disability-eloise1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/opinion/07disability-eloise1/05disability-eloise1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/opinion/07disability-eloise1/05disability-eloise1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dc6a00f5-024c-58b0-80c0-946adabddeb9",
+      "url": "https://www.nytimes.com/2020/12/03/science/tennessee-embryo-donate.html",
+      "id": 100000007484804,
+      "asset_id": 100000007484804,
+      "source": "New York Times",
+      "published_date": "2020-12-03",
+      "updated": "2020-12-04 09:49:54",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "In Vitro Fertilization;Babies and Infants;Parenting;Pregnancy and Childbirth;University of Tennessee;Tennessee",
+      "column": null,
+      "byline": "By Maria Cramer",
+      "type": "Article",
+      "title": "Girl Is Born in Tennessee From Embryo Frozen for 27 Years",
+      "abstract": "The birth of Molly Gibson using an embryo from 1992 broke a record set by her sister, Emma, in 2017. The embryos were donated when the girls’ mother was herself a toddler.",
+      "des_facet": [
+        "In Vitro Fertilization",
+        "Babies and Infants",
+        "Parenting",
+        "Pregnancy and Childbirth"
+      ],
+      "org_facet": [
+        "University of Tennessee"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Tennessee"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Molly Everette Gibson, the daughter of Tina and Ben Gibson, was born Oct. 26. Her mother gave birth to her after an embryo that had been frozen for more than 27 years was implanted. ",
+          "copyright": "Haleigh Crabtree Photography",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-embryo-image1/03xp-embryo-image1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-embryo-image1/03xp-embryo-image1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-embryo-image1/03xp-embryo-image1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c1d1cfaf-c30e-5bdf-99df-145f6c4b8b84",
+      "url": "https://www.nytimes.com/2020/12/04/us/politics/stimulus-deal-pelosi-mcconnell-biden.html",
+      "id": 100000007487420,
+      "asset_id": 100000007487420,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-05 11:03:08",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Stimulus (Economic);United States Economy;Coronavirus (2019-nCoV);Federal Aid (US);McConnell, Mitch;Biden, Joseph R Jr;Pelosi, Nancy",
+      "column": null,
+      "byline": "By Emily Cochrane and Nicholas Fandos",
+      "type": "Article",
+      "title": "Stimulus Prospects Grow as Leaders Agree to Try for Year-End Deal",
+      "abstract": "Speaker Nancy Pelosi and Senator Mitch McConnell, the majority leader, have agreed to try to reach a deal that could be included in a must-pass spending measure.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Stimulus (Economic)",
+        "United States Economy",
+        "Coronavirus (2019-nCoV)",
+        "Federal Aid (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "McConnell, Mitch",
+        "Biden, Joseph R Jr",
+        "Pelosi, Nancy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Nancy Pelosi said on Friday that she and Senator Mitch McConnell had agreed to redouble efforts to find a deal that could be merged with an enormous spending package needed to keep the government funded beyond Dec. 11.",
+          "copyright": "Erin Scott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-stimulus/04dc-stimulus-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-stimulus/merlin_180809223_b8877bed-441e-4140-b289-075c6fee8d34-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-stimulus/merlin_180809223_b8877bed-441e-4140-b289-075c6fee8d34-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4f384e9a-afb1-5b19-ab22-c21d5b3a061f",
+      "url": "https://www.nytimes.com/2020/12/04/us/daca-reinstated.html",
+      "id": 100000007487974,
+      "asset_id": 100000007487974,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-05 17:00:36",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deferred Action for Childhood Arrivals;Immigration and Emigration;Illegal Immigration;Deportation;Garaufis, Nicholas G;Trump, Donald J",
+      "column": null,
+      "byline": "By Caitlin Dickerson and Michael D. Shear",
+      "type": "Article",
+      "title": "Judge Orders Government to Fully Reinstate DACA Program",
+      "abstract": "Up to 300,000 additional undocumented immigrants could be allowed to apply for protection from deportation under a new court ruling. President Trump had sought to cancel the program.",
+      "des_facet": [
+        "Deferred Action for Childhood Arrivals",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Deportation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Garaufis, Nicholas G",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A June demonstration in San Diego in support of beneficiaries of the Deferred Action for Childhood Arrivals program.",
+          "copyright": "Sandy Huffaker/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-daca/merlin_173686869_265122df-e238-4461-9336-e579fb59dc27-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-daca/merlin_173686869_265122df-e238-4461-9336-e579fb59dc27-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-daca/merlin_173686869_265122df-e238-4461-9336-e579fb59dc27-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f6310f72-5927-5d4d-b326-f17003c2a8fb",
+      "url": "https://www.nytimes.com/2020/12/05/opinion/sunday/trump-election-fraud.html",
+      "id": 100000007485332,
+      "asset_id": 100000007485332,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 16:24:06",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);Conservatism (US Politics);Conspiracy Theories;Coronavirus (2019-nCoV);Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Ross Douthat",
+      "type": "Article",
+      "title": "Why Do So Many Americans Think the Election Was Stolen?",
+      "abstract": "Looking for the reasons behind a seemingly unreasonable belief.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Conservatism (US Politics)",
+        "Conspiracy Theories",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Rob Dobi; photographs by Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/sunday/05Douthat/05Douthat-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/sunday/05Douthat/05Douthat-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/sunday/05Douthat/05Douthat-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a3f9ae6a-7e51-56b2-9211-7591c732a733",
+      "url": "https://www.nytimes.com/2020/12/05/us/trump-georgia-runoff.html",
+      "id": 100000007488590,
+      "asset_id": 100000007488590,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 09:29:42",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);Elections, Senate;Kemp, Brian P;Loeffler, Kelly L;Ossoff, Jon;Perdue, David A Jr;Warnock, Raphael G;Trump, Donald J;Senate;Georgia",
+      "column": null,
+      "byline": "By Jonathan Martin and Astead W. Herndon",
+      "type": "Article",
+      "title": "At Rally for Georgia Senators, Trump Focuses on His Own Grievances",
+      "abstract": "The president falsely claimed the election was rigged and that he had won. Earlier, he urged Georgia’s governor to call a special legislative session to overturn Joe Biden’s win in the state.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Elections, Senate"
+      ],
+      "org_facet": [
+        "Senate"
+      ],
+      "per_facet": [
+        "Kemp, Brian P",
+        "Loeffler, Kelly L",
+        "Ossoff, Jon",
+        "Perdue, David A Jr",
+        "Warnock, Raphael G",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Georgia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at a rally in Valdosta, Ga., on Saturday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05-trump-georgia-2/05-trump-georgia-2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05-trump-georgia-2/merlin_180862581_f8a6f016-5d51-459b-8b54-bd20bb8b2dc1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05-trump-georgia-2/merlin_180862581_f8a6f016-5d51-459b-8b54-bd20bb8b2dc1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4124e2e1-73b6-5810-92f5-10d41efe9000",
+      "url": "https://www.nytimes.com/2020/12/05/style/candice-bergen.html",
+      "id": 100000007484672,
+      "asset_id": 100000007484672,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 13:55:24",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Content Type: Personal Profile;Actors and Actresses;Movies;Bergen, Candice",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Candice Bergen, Woman Who’s Had It All",
+      "abstract": "The wryest of Hollywood royals recalls life with Daddy’s dummy, marriage to Louis Malle and a comedic career for the ages.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Actors and Actresses",
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bergen, Candice"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“You can’t throw one past her,” said director Steven Soderbergh. “You better know what you’re talking about and what you’re doing.”",
+          "copyright": "Ryan Pfluger for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/fashion/05WITH-CANDICEBERGEN3/05WITH-CANDICEBERGEN3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/fashion/05WITH-CANDICEBERGEN3/05WITH-CANDICEBERGEN3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/fashion/05WITH-CANDICEBERGEN3/05WITH-CANDICEBERGEN3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/633aa1c3-94b0-5c95-ab3b-30ea27dcbf38",
+      "url": "https://www.nytimes.com/2020/12/03/us/california-stay-at-home-order.html",
+      "id": 100000007485154,
+      "asset_id": 100000007485154,
+      "source": "New York Times",
+      "published_date": "2020-12-03",
+      "updated": "2020-12-04 09:56:00",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Shutdowns (Institutional);Disease Rates;Quarantines;Newsom, Gavin;California",
+      "column": null,
+      "byline": "By Jill Cowan, Jack Healy and Thomas Fuller",
+      "type": "Article",
+      "title": "California Will Impose Its Strongest Virus Measures Since the Spring",
+      "abstract": "Millions of people across Southern and Central California are likely to see outdoor dining shuttered, playgrounds roped off and hair salons closed within days.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Disease Rates",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newsom, Gavin"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New restrictions announced by Gov. Gavin Newsom of California on Thursday will begin in regions once the available intensive-care capacity there dips below a 15 percent threshold.",
+          "copyright": "John Taggart for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/us/03virus-enforcement/03virus-enforcement-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/us/03virus-enforcement/03virus-enforcement-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/us/03virus-enforcement/03virus-enforcement-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3a4050a9-fe5a-51f9-859f-f6f73193983d",
+      "url": "https://www.nytimes.com/2020/12/04/us/politics/house-marijuana.html",
+      "id": 100000007486665,
+      "asset_id": 100000007486665,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-06 15:22:16",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Marijuana;Law and Legislation;United States Politics and Government;Criminal Justice;Race and Ethnicity;Nadler, Jerrold;Harris, Kamala D;House of Representatives",
+      "column": null,
+      "byline": "By Catie Edmondson",
+      "type": "Article",
+      "title": "House Passes Landmark Bill Decriminalizing Marijuana",
+      "abstract": "The House passed sweeping legislation that would decriminalize marijuana and expunge nonviolent marijuana-related convictions. The measure is all but doomed in the Republican-led Senate.",
+      "des_facet": [
+        "Marijuana",
+        "Law and Legislation",
+        "United States Politics and Government",
+        "Criminal Justice",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Nadler, Jerrold",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    }
+  ]
+}

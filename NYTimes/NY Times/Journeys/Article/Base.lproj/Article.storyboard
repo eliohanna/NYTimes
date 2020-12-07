@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Home View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="HomeViewController" id="BYZ-38-t0r" customClass="HomeViewController" customModule="NY_Times" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Ebh-Zr-yWc">
+                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Ebh-Zr-yWc" secondAttribute="bottom" id="6Br-0s-ABD"/>
+                            <constraint firstItem="Ebh-Zr-yWc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="9ME-hG-qz5"/>
+                            <constraint firstItem="Ebh-Zr-yWc" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="laD-eS-BVR"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ebh-Zr-yWc" secondAttribute="trailing" id="qXy-23-ZwA"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="tableView" destination="Ebh-Zr-yWc" id="vMm-WB-9mT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="139" y="138"/>
+        </scene>
+        <!--Details View Controller-->
+        <scene sceneID="obq-nd-b1E">
+            <objects>
+                <viewController storyboardIdentifier="DetailsViewController" id="jwm-cV-4pU" customClass="DetailsViewController" customModule="NY_Times" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="kaK-5F-Lf3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="eVA-of-GpP">
+                                <rect key="frame" x="0.0" y="44" width="414" height="221"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="221" id="m4B-27-iHy"/>
+                                </constraints>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="fuA-Eu-RMC">
+                                <rect key="frame" x="16" y="281" width="382" height="45"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fzP-yd-pjz">
+                                        <rect key="frame" x="0.0" y="0.0" width="382" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1g6-WL-TzZ">
+                                        <rect key="frame" x="0.0" y="24.5" width="382" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="BAT-In-Phg">
+                                <rect key="frame" x="332" y="342" width="66" height="20.5"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Home/calendar" translatesAutoresizingMaskIntoConstraints="NO" id="7Vv-hQ-41Q">
+                                        <rect key="frame" x="0.0" y="0.5" width="20" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="20" id="XMX-wy-KoZ"/>
+                                            <constraint firstAttribute="height" constant="20" id="Zss-Er-0XZ"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0tt-0f-N63">
+                                        <rect key="frame" x="24" y="0.0" width="42" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="fuA-Eu-RMC" firstAttribute="top" secondItem="eVA-of-GpP" secondAttribute="bottom" constant="16" id="38q-2p-cqw"/>
+                            <constraint firstItem="eVA-of-GpP" firstAttribute="leading" secondItem="yEO-kE-SSV" secondAttribute="leading" id="7kY-X0-6aO"/>
+                            <constraint firstItem="eVA-of-GpP" firstAttribute="top" secondItem="yEO-kE-SSV" secondAttribute="top" id="8rB-99-RIX"/>
+                            <constraint firstItem="yEO-kE-SSV" firstAttribute="trailing" secondItem="BAT-In-Phg" secondAttribute="trailing" constant="16" id="MV7-9N-hKs"/>
+                            <constraint firstItem="BAT-In-Phg" firstAttribute="top" secondItem="fuA-Eu-RMC" secondAttribute="bottom" constant="16" id="dfV-tZ-8ON"/>
+                            <constraint firstItem="fuA-Eu-RMC" firstAttribute="leading" secondItem="yEO-kE-SSV" secondAttribute="leading" constant="16" id="lVV-zK-o0T"/>
+                            <constraint firstItem="yEO-kE-SSV" firstAttribute="trailing" secondItem="eVA-of-GpP" secondAttribute="trailing" id="tCW-eV-azv"/>
+                            <constraint firstItem="yEO-kE-SSV" firstAttribute="trailing" secondItem="fuA-Eu-RMC" secondAttribute="trailing" constant="16" id="vyk-S0-oJc"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="yEO-kE-SSV"/>
+                    </view>
+                    <connections>
+                        <outlet property="dateLabel" destination="0tt-0f-N63" id="Rkc-8K-jru"/>
+                        <outlet property="imageViewHeightConstraint" destination="m4B-27-iHy" id="N8T-H6-EPy"/>
+                        <outlet property="newsImageView" destination="eVA-of-GpP" id="9OY-W9-E90"/>
+                        <outlet property="subtitleLabel" destination="1g6-WL-TzZ" id="jaZ-E1-Ftb"/>
+                        <outlet property="titleLabel" destination="fzP-yd-pjz" id="yjS-pO-KYB"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cA5-ow-ef8" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1070" y="138"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Home/calendar" width="25" height="25"/>
+    </resources>
+</document>
